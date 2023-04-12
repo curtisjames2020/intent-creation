@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id mBtnCamera
+id mBtnEmail
+id mBtnSms
+id map
+id mbtnMpesa
+id mbtncall
+id mbtnmap
+id mbtnshare
+id mbtnwebsite
+id mweb
+layout activity_main
+layout activity_maps
+layout activity_websites
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string title_activity_maps
+style Theme.MidmorningIntents
+xml backup_rules
+xml data_extraction_rules
